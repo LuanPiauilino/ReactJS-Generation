@@ -1,0 +1,11 @@
+.titulo{
+    color: rgba(12, 12, 125, 0.86);
+    text-align:start;
+}
+
+.foto{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto  ;
+}
