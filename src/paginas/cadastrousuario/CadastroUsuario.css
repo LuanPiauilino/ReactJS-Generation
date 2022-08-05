@@ -1,0 +1,20 @@
+.img2{
+    background-image: url(https://png.pngtree.com/png-vector/20210719/ourlarge/pngtree-e-learning-illustration-young-lady-studying-online-png-image_3619062.jpg);
+    background-repeat: no-repeat; 
+    width: 100vh; 
+    min-height: 100vh;
+    background-size:cover;
+    background-position:center;
+}
+
+.negrito2{
+    font-weight: bold !important;
+}
+
+.text-decorator-none2{
+    text-decoration: none;
+}
+
+.btncancelar{
+    margin-right: 20px !important;
+}
