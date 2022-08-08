@@ -59,7 +59,7 @@ function Navbar() {
                         </Box>
                         </Link>
                         
-                        <Box mx={1} className="cursor" className = "text-decorator-none" onClick= {goLogout}>
+                        <Box mx={1} className="cursor text-decorator-none" onClick= {goLogout}>
                             <Typography variant="h6" color="inherit">
                                 logout
                             </Typography>
